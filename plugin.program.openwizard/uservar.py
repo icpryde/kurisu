@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
 BUILDERNAME = 'OpenWizard'
 EXCLUDES = [ADDON_ID, 'repo.aftermathz']
 # Text File with build info in it.
-BUILDFILE = 'https://my-personal-repo.000webhostapp.com/openwizard/builds.txt'
+BUILDFILE = 'http://kurisu.rf.gd/builds/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -87,20 +87,20 @@ CONTACTFANART = 'http://'
 #        Auto Update For Those With No Repo             #
 #########################################################
 # Enable Auto Update 'Yes' or 'No'
-AUTOUPDATE = 'Yes'
+AUTOUPDATE = 'No'
 #########################################################
 
 #########################################################
 #        Auto Install Repo If Not Installed             #
 #########################################################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL = 'Yes'
+AUTOINSTALL = 'No'
 # Addon ID for the repository
 REPOID = 'repo.aftermathz'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://my-personal-repo.000webhostapp.com/repo/zips/addons.xml'
+REPOADDONXML = 'https://'
 # Url to folder zip is located in
-REPOZIPURL = 'https://my-personal-repo.000webhostapp.com/repo/zips/repo.aftermathz'
+REPOZIPURL = 'https://'
 #########################################################
 
 #########################################################
