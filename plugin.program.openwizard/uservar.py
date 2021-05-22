@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
 BUILDERNAME = 'OpenWizard'
 EXCLUDES = [ADDON_ID, 'repo.aftermathz']
 # Text File with build info in it.
-BUILDFILE = 'http://kurisu.rf.gd/builds/builds.txt'
+BUILDFILE = 'https://www.dropbox.com/s/mycrsds1lhspquo/builds.txt?dl=1'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
