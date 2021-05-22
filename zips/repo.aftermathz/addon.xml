@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo.aftermathz" name="Aftermath Z Repo" version="1.0.1" provider-name="krillin">
+    <extension point="xbmc.addon.repository" name="Aftermath Z repo">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/icpryde/repo.aftermathz/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/icpryde/repo.aftermathz/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/icpryde/repo.aftermathz/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Aftermath Z repo</summary>
+        <description>My Personal Repo</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
