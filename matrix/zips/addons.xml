@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.openwizard" name="[COLOR limegreen]Open[/COLOR]Wizard" version="3.0.9" provider-name="drinfernoo">
+<addon id="plugin.program.ragnarok" name="[COLOR crimson]Ragnarok[/COLOR]Wizard" version="2.1.1" provider-name="RagnarLothbrok">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -16,16 +16,16 @@
     <extension point="xbmc.service" library="startup.py" start="startup" />
 
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR limegreen]Open[/COLOR]Wizard</summary>
-        <description lang="en">[COLOR limegreen]Open[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+        <summary lang="en">[COLOR crimson]Ragnarok[/COLOR]Wizard</summary>
+        <description lang="en">[COLOR crimson]Ragnarok[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
+        <source>https://github.com/RagnarLothbrok-Odin/plugin.program.ragnarok/</source>
         <news>
-2.0.9
- - Add support for Kodi v21
+2.1.0
+ - Add support for Kodi v21 (Omega)
 2.0.8
- - Add support for Kodi v20
+ - Add support for Kodi v20 (Nexus)
 2.0.7
  - Fix Error when using default log settings
 2.0.6
